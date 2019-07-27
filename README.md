@@ -1,2 +1,3 @@
-# ProblemSolvingGoal
-I've created this repository to track my progress and become a better Problem Solver by solving Different Problems on Websites like Leetcode, GeeksForGeeks, 
+S.No | Problem | Solution | Website | Difficulty | Topic | Date
+--- | --- | --- | --- | --- | --- | ---
+1 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | | Leetcode | <p><span style="color:blue">Easy</span></p> | Strings | 27-07-19
