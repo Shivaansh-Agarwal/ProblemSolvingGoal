@@ -2,10 +2,12 @@
 1. [Logical][1]
 2. [Strings][2]
 3. [2D Matrix][3]
+4. [SQL][4]
 
 [1]:#Logical
 [2]:#Strings
 [3]:#2D-Matrix
+[4]:#SQL
 
 ### Logical
 S.No | Problem | Solution | Website | Difficulty | Date 
@@ -23,3 +25,8 @@ S.No | Problem | Solution | Website | Difficulty | Date
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
 1 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Matrix/01.java) | Leetcode | Medium | 26-08-19
+
+### SQL
+S.No | Problem | Solution | Website | Difficulty | Date 
+--- | --- | --- | --- | --- | ---
+1 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/SQL/595_Big_Countries.sql) | Leetcode | Easy | 26-09-19
