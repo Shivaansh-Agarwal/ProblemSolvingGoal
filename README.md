@@ -1,9 +1,16 @@
 # TOPICS
-1. [Strings][1]
-2. [2D Matrix][2]
+1. [Logical][1]
+2. [Strings][2]
+3. [2D Matrix][3]
 
-[1]:#Strings
-[2]:#2D-Matrix
+[1]:#Logical
+[2]:#Strings
+[3]:#2D-Matrix
+
+### Logical
+S.No | Problem | Solution | Website | Difficulty | Date 
+--- | --- | --- | --- | --- | ---
+1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Logical/01.java) | Leetcode | Easy | 26-08-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
