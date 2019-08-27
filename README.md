@@ -1,18 +1,27 @@
 # TOPICS
 1. [Logical][1]
-2. [Strings][2]
-3. [2D Matrix][3]
-4. [SQL][4]
+2. [Arrays][2]
+3. [Strings][3]
+4. [2D Matrix][4]
+5. [SQL][5]
+
 
 [1]:#Logical
-[2]:#Strings
-[3]:#2D-Matrix
-[4]:#SQL
+[2]:#Arrays
+[3]:#Strings
+[4]:#2D-Matrix
+[5]:#SQL
+
 
 ### Logical
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Logical/01.java) | Leetcode | Easy | 26-08-19
+
+### Arrays
+S.No | Problem | Solution | Website | Difficulty | Date 
+--- | --- | --- | --- | --- | ---
+1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/11_Container_With_Most_Water.java) | Leetcode | Medium | 27-08-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
