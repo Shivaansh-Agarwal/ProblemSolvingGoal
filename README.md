@@ -22,6 +22,7 @@ S.No | Problem | Solution | Website | Difficulty | Date
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
 1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/11_Container_With_Most_Water.java) | Leetcode | Medium | 27-08-19
+2 | [3Sum](https://leetcode.com/problems/3sum/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/15_3Sum.java) | LeetCode | Medium | 28-08-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
