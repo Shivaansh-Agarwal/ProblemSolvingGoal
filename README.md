@@ -40,4 +40,4 @@ S.No | Problem | Solution | Website | Difficulty | Date
 ### SQL
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
-1 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/SQL/595_Big_Countries.sql) | Leetcode | Easy | 26-09-19
+1 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/SQL/595_Big_Countries.sql) | Leetcode | Easy | 26-08-19
