@@ -21,8 +21,10 @@ S.No | Problem | Solution | Website | Difficulty | Date
 ### Arrays
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
-1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/11_Container_With_Most_Water.java) | Leetcode | Medium | 27-08-19
-2 | [3Sum](https://leetcode.com/problems/3sum/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/15_3Sum.java) | LeetCode | Medium | 28-08-19
+1 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/11_Container_With_Most_Water.java) | Leetcode | Medium | 27-08-19
+2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/15_3Sum.java) | LeetCode | Medium | 28-08-19
+3 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/724_Find_Pivot_Index.java) | Leetcode | Easy | 29-08-19
+4 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/35_Search_Insert_Position.java) | Leetcode | Easy | 29-08-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
