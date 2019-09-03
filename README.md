@@ -27,6 +27,7 @@ S.No | Problem | Solution | Website | Difficulty | Date
 4 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/35_Search_Insert_Position.java) | Leetcode | Easy | 29-08-19
 5 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/27_Remove_Element.java) | Leetcode | Easy | 30-08-19
 6 | [28. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/26_Remove_Duplicates_From_Sorted_Array.java) | Leetcode | Easy | 30-08-19
+7 | [905. 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/905_Sort_Array_By_Parity.java) | Leetcode | Easy | 03-08-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
