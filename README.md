@@ -40,7 +40,7 @@ S.No | Problem | Solution | Website | Difficulty | Date
 
 ### 2D-Matrix
 S.No | Problem | Solution | Website | Difficulty | Date 
---- | --- | --- | --- | --- | ---https://leetcode.com/problems/remove-element/
+--- | --- | --- | --- | --- | ---
 1 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Matrix/01.java) | Leetcode | Medium | 26-08-19
 2 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Matrix/832_Flipping_an_Image.java) | Leetcode | Easy | 26-08-19
 
