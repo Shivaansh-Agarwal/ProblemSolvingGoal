@@ -1,17 +1,24 @@
 # TOPICS
+0. [Important Problems][0]
 1. [Logical][1]
 2. [Arrays][2]
 3. [Strings][3]
 4. [2D Matrix][4]
 5. [SQL][5]
 
-
+[0]:#Important-Problems
 [1]:#Logical
 [2]:#Arrays
 [3]:#Strings
 [4]:#2D-Matrix
 [5]:#SQL
 
+### Important-Problems
+S.No | Problem | Topic | Date 
+--- | --- | --- | ---
+1 | [Print all subsets of given size of a set](https://www.geeksforgeeks.org/print-subsets-given-size-set/) | Arrays | 10-09-19
+2 | [Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/) | Arrays | 10-09-19
+3 | [Subset Sum Problem](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) | Dynamic Programming | 10-09-19
 
 ### Logical
 S.No | Problem | Solution | Website | Difficulty | Date 
