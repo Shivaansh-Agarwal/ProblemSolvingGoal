@@ -22,6 +22,7 @@ S.No | Problem | Topic | Date
 
 ### Important-Problems
 S.No | Problem | Solution | Date
+--- | --- | --- | ---
 1 | Generate a powerset of an Array (Bitwise Approach) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Important%20Problems/powersetOfArray.java) | 11-09-19
 
 ### Logical
