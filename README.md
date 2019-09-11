@@ -13,12 +13,16 @@
 [4]:#2D-Matrix
 [5]:#SQL
 
-### Important-Problems
+### Important-(Must Know)
 S.No | Problem | Topic | Date 
 --- | --- | --- | ---
 1 | [Print all subsets of given size of a set](https://www.geeksforgeeks.org/print-subsets-given-size-set/) | Arrays | 10-09-19
 2 | [Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/) | Arrays | 10-09-19
 3 | [Subset Sum Problem](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) | Dynamic Programming | 10-09-19
+
+### Important-Problems
+S.No | Problem | Solution | Date
+1 | Generate a powerset of an Array (Bitwise Approach) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Important%20Problems/powersetOfArray.java) | 11-09-19
 
 ### Logical
 S.No | Problem | Solution | Website | Difficulty | Date 
