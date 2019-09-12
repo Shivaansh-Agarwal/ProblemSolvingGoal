@@ -49,6 +49,7 @@ S.No | Problem | Solution | Website | Difficulty | Date
 1 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Strings/01.cpp) | Leetcode | Easy | 27-07-19
 2 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Strings/02.cpp) | Leetcode | Easy | 31-07-19
 3 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Strings/03.java) | Leetcode | Easy | 23-08-19
+4 | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Strings/657_Robot_Return_to_Origin.java) | Leetcode | Easy | 12-09-19
 
 ### 2D-Matrix
 S.No | Problem | Solution | Website | Difficulty | Date 
