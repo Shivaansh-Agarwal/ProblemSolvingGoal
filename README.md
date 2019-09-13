@@ -42,6 +42,7 @@ S.No | Problem | Solution | Website | Difficulty | Date
 6 | [28. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/26_Remove_Duplicates_From_Sorted_Array.java) | Leetcode | Easy | 30-08-19
 7 | [905. 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/905_Sort_Array_By_Parity.java) | Leetcode | Easy | 03-09-19
 8 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/1160_Find_Words_that_can_be_found_by_characters.java) | Leetcode | Easy | 03-09-19
+9:bulb: | [1089. Duplicate Zeros O(n)](https://leetcode.com/problems/duplicate-zeros/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/1089_Duplicate_Zeros.java) | Leetcode | Easy (But Efficient Solution Tricky) | 13-09-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
