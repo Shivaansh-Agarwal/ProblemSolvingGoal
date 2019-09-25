@@ -30,6 +30,7 @@ S.No | Problem | Solution | Website | Difficulty | Date
 --- | --- | --- | --- | --- | ---
 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Logical/01.java) | Leetcode | Easy | 26-08-19
 2 :bulb: | [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Logical/950_Reveal_Cards_In_Increasing_Order.java) | Leetcode | Medium | 05-09-19
+3 | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Logical/674_Longest_Continuous_Increasing_Subsequence.java) | Leetcode | Easy | 25-09-19
 
 ### Arrays
 S.No | Problem | Solution | Website | Difficulty | Date 
