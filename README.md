@@ -10,9 +10,10 @@
 [0]:#Important-Problems
 [1]:#Logical
 [2]:#Arrays
-[3]:#Strings
-[4]:#2D-Matrix
-[5]:#SQL
+[3]:#Linked-List
+[4]:#Strings
+[5]:#2D-Matrix
+[6]:#SQL
 
 ### Important-(Must Know)
 S.No | Problem | Topic | Date 
@@ -51,6 +52,7 @@ S.No | Problem | Solution | Website | Difficulty | Date
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
 1 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Linked%20List/21_Merge%20Two%20Sorted%20Lists.java) | Leetcode | Easy | 26-09-19
+1 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key: Optimized](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Linked%20List/21_Merge%20Two%20Sorted%20Lists(OPTIMIZED).java) | Leetcode | Easy | 26-09-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
