@@ -2,9 +2,10 @@
 0. [Important Problems][0]
 1. [Logical][1]
 2. [Arrays][2]
-3. [Strings][3]
-4. [2D Matrix][4]
-5. [SQL][5]
+3. [Linked-List][3]
+4. [Strings][4]
+5. [2D Matrix][5]
+6. [SQL][6]
 
 [0]:#Important-Problems
 [1]:#Logical
@@ -45,6 +46,11 @@ S.No | Problem | Solution | Website | Difficulty | Date
 8 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/1160_Find_Words_that_can_be_found_by_characters.java) | Leetcode | Easy | 03-09-19
 9:bulb: | [1089. Duplicate Zeros O(n)](https://leetcode.com/problems/duplicate-zeros/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/1089_Duplicate_Zeros.java) | Leetcode | Easy (But Efficient Solution Tricky) | 13-09-19
 10 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Arrays/1200_Minimum_Absolute_Difference.java) | Leetcode | Easy | 23-09-19
+
+### Linked-List
+S.No | Problem | Solution | Website | Difficulty | Date 
+--- | --- | --- | --- | --- | ---
+1 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Linked%20List/21_Merge%20Two%20Sorted%20Lists.java) | Leetcode | Easy | 26-09-19
 
 ### Strings
 S.No | Problem | Solution | Website | Difficulty | Date 
