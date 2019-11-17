@@ -15,6 +15,11 @@
 [5]:#2D-Matrix
 [6]:#SQL
 
+### Contests
+S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
+--- | --- | --- | --- | --- | ---
+1 | Leetcode | [5108. Encode Number](https://leetcode.com/contest/biweekly-contest-13/problems/encode-number/) | https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/5108_Encode_Number.java | https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/5108_Encode_Number.py | 16-11-19
+
 ### Important-(Must Know)
 S.No | Problem | Topic 
 --- | --- | ---
