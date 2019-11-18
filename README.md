@@ -5,7 +5,8 @@
 3. [Linked-List][3]
 4. [Strings][4]
 5. [2D Matrix][5]
-6. [SQL][6]
+6. [Trees][6]
+7. [SQL][7]
 
 [0]:#Important-Problems
 [1]:#Logical
@@ -13,7 +14,8 @@
 [3]:#Linked-List
 [4]:#Strings
 [5]:#2D-Matrix
-[6]:#SQL
+[6]:#Trees
+[7]:#SQL
 
 ### Contests
 S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
@@ -75,6 +77,11 @@ S.No | Problem | Solution | Website | Difficulty | Date
 --- | --- | --- | --- | --- | ---
 1 | [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Matrix/01.java) | Leetcode | Medium | 26-08-19
 2 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Matrix/832_Flipping_an_Image.java) | Leetcode | Easy | 26-08-19
+
+### Trees
+S.No | Problem | Solution | Website | Difficulty | Date 
+--- | --- | --- | --- | --- | ---
+1 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Trees/102_Binary_Tree_Level_Order_Traversal.java) | Leetcode | Medium | 18-11-19
 
 ### SQL
 S.No | Problem | Solution | Website | Difficulty | Date 
