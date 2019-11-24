@@ -23,6 +23,7 @@ S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
 1 | Leetcode | [5108. Encode Number](https://leetcode.com/contest/biweekly-contest-13/problems/encode-number/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/5108_Encode_Number.java) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/5108_Encode_Number.py) | 16-11-19
 2 | Leetcode | [1260. Shift 2D Grid](https://leetcode.com/contest/weekly-contest-163/problems/shift-2d-grid/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1260_Shift_2D_Grid.java) | - | 17-11-19
 3 | Leetcode | [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1261_Find_Elements_in_a_Contaminated_Binary_Tree.java) | - | 17-11-19
+4 | Leetcode | [1266. Minimum Time Visiting All Points](https://leetcode.com/contest/weekly-contest-164/problems/minimum-time-visiting-all-points/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1266_Minimum_Time_Visiting_All_Points.java)
 
 ### Important-(Must Know)
 S.No | Problem | Topic 
