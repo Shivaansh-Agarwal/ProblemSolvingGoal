@@ -25,6 +25,8 @@ S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
 3 | Leetcode | [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/contest/weekly-contest-163/problems/find-elements-in-a-contaminated-binary-tree/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1261_Find_Elements_in_a_Contaminated_Binary_Tree.java) | - | 17-11-19
 4 | Leetcode | [1266. Minimum Time Visiting All Points](https://leetcode.com/contest/weekly-contest-164/problems/minimum-time-visiting-all-points/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1266_Minimum_Time_Visiting_All_Points.java) | - | 24-11-19
 5 | Leetcode | [1267. Count Servers that Communicate](https://leetcode.com/contest/weekly-contest-164/problems/count-servers-that-communicate/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1267%20Count%20Servers%20that%20Communicate.java) | - | 24-11-19
+6 | Leetcode | [1271. Hexspeak](https://leetcode.com/contest/biweekly-contest-14/problems/hexspeak/) | - | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1271_Hexspeak.py) | 30-11-19
+7 | Leetcode | [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/contest/weekly-contest-165/problems/find-winner-on-a-tic-tac-toe-game/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1275%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.java) | - | 01-12-19
 
 ### Important-(Must Know)
 S.No | Problem | Topic 
