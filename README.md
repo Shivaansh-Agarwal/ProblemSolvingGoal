@@ -7,6 +7,7 @@
 5. [2D Matrix][5]
 6. [Trees][6]
 7. [SQL][7]
+8. [100 Days of Code][8]
 
 [0]:#Important-Problems
 [1]:#Logical
@@ -16,6 +17,7 @@
 [5]:#2D-Matrix
 [6]:#Trees
 [7]:#SQL
+[8]:#100-Days-of-Code
 
 ### Contests
 S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
@@ -91,3 +93,8 @@ S.No | Problem | Solution | Website | Difficulty | Date
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
 1 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/SQL/595_Big_Countries.sql) | Leetcode | Easy | 26-08-19
+
+### 100-Days-of-Code
+Day | Problem | Solution | Platform | Date
+--- | --- | --- | --- | --- 
+1 | [Count the Triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day001_1.java) | GeeksForGeeks | 03-01-2020
