@@ -99,3 +99,4 @@ Day | Problem | Solution | Platform | Date
 --- | --- | --- | --- | --- 
 1 | [Count the Triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day001_1.java) | GeeksForGeeks | 03-01-2020
 2 | [Kadane's Algorithm or Subarray with Maximum Sum](https://leetcode.com/problems/maximum-subarray/) [{GFG Link}](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day002_1.java) | Leetcode, GFG | 04-01-2020
+3 | [Missing number in an array of 1 to n](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day003_1.java) | GFG | 05-01-2020
