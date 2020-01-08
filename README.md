@@ -102,3 +102,4 @@ Day | Problem | Solution | Platform | Date
 3 | [Missing number in an array of 1 to n](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day003_1.java) | GFG | 05-01-2020
 4 | [Merge 2 Sorted Arrays without using extra space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day004_1.java) | GFG | PENDING
 5 | [Minimum Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day005_1.java) | InterviewBit | 07-01-2020
+6 | [Add 1 to Number](https://www.interviewbit.com/problems/add-one-to-number/) | [Python](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day006_1.py) | InterviewBit | 08-01-2020
