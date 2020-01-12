@@ -106,4 +106,4 @@ Day | Problem | Solution | Platform | Date
 7 | [Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day007_1.java) | InterviewBit | 09-01-2020
 8 | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day008_1.java) | InterviewBit | 10-01-2020
 9 | [Flip](https://www.interviewbit.com/problems/flip/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day009_1.java) | InterviewBit | 11-01-2020
-10 | [Max Non Negative Subarray][https://www.interviewbit.com/problems/max-non-negative-subarray/] | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day010_1.java) | InterviewBit | 12-01-2020
+10 | [Max Non Negative Subarray](https://www.interviewbit.com/problems/max-non-negative-subarray/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day010_1.java) | InterviewBit | 12-01-2020
