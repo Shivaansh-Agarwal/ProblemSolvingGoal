@@ -108,3 +108,4 @@ Day | Problem | Solution | Platform | Date
 9 | [Flip](https://www.interviewbit.com/problems/flip/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day009_1.java) | InterviewBit | 11-01-2020
 10 | [Max Non Negative Subarray](https://www.interviewbit.com/problems/max-non-negative-subarray/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day010_1.java) | InterviewBit | 12-01-2020
 11 | [Spiral Order Matrix II](https://www.interviewbit.com/problems/spiral-order-matrix-ii/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day011_1.java) | InterviewBit | 13-01-2020
+12 | [Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day012_1.java) | InterviewBit | 14-01-2020
