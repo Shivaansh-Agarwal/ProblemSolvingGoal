@@ -110,3 +110,4 @@ Day | Problem | Solution | Platform | Date
 11 | [Spiral Order Matrix II](https://www.interviewbit.com/problems/spiral-order-matrix-ii/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day011_1.java) | InterviewBit | 13-01-2020
 12 | [Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day012_1.java) | InterviewBit | 14-01-2020
 12 | [kth row of Pascal Triangle](https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day012_2.java) | InterviewBit | 14-01-2020
+13 | [Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day013_1.java) | InterviewBit | 15-01-2020
