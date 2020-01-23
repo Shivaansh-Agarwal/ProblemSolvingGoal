@@ -7,7 +7,8 @@
 5. [2D Matrix][5]
 6. [Trees][6]
 7. [SQL][7]
-8. [100 Days of Code][8]
+8. [Sorting][8]
+9. [100 Days of Code][9]
 
 [0]:#Important-Problems
 [1]:#Logical
@@ -17,7 +18,8 @@
 [5]:#2D-Matrix
 [6]:#Trees
 [7]:#SQL
-[8]:#100-Days-of-Code
+[8]:#Sorting
+[9]:#100-Days-of-Code
 
 ### Contests
 S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
@@ -97,6 +99,13 @@ S.No | Problem | Solution | Website | Difficulty | Date
 S.No | Problem | Solution | Website | Difficulty | Date 
 --- | --- | --- | --- | --- | ---
 1 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/SQL/595_Big_Countries.sql) | Leetcode | Easy | 26-08-19
+
+### Sorting
+S.No | Problem | Solution | Website | Difficulty | Date 
+--- | --- | --- | --- | --- | ---
+1 | [Min-Max Difference](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/HackerEarth/Sorting/MinMaxDifference.java) | HackerEarth | Easy | 23-01-2020
+2 :bulb: | [Pizza Confusion](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/pizza-confusion/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/HackerEarth/Sorting/Pizza%20Confusion.java) | HackerEarth | Easy (Comparator using Array of Objects) | 23-01-2020
+3 | [Sort It Out](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/sort-it-out/description/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/HackerEarth/Sorting/SortItOut.java) | HackerEarth | Easy | 23-01-2020
 
 ### 100-Days-of-Code
 Day | Problem | Solution | Platform | Date
