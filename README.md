@@ -136,3 +136,4 @@ Day | Problem | Solution | Platform | Date
 24 | Merge Sort Revision | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day024_1.java) | - | 27-01-2020
 25 | Quick Sort Revision | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Quick%20Sort.java) | - | 28-01-2020
 26 | [Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Inversion%20Count.java) | - | 29/01/2020
+27 | [Union of 2 Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/376ef45410d4eabef99cfc44a1df60adf35202f7/Sorting/Union%20of%202%20Sorted%20Arrays.java) | GeeksForGeeks | 01/02/2020 
