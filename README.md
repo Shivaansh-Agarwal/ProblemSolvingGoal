@@ -36,6 +36,7 @@ S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
 10 | Leetcode | [1325. Delete Leaves With a Given Value](https://leetcode.com/contest/weekly-contest-172/problems/delete-leaves-with-a-given-value/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1325%20Delete%20Leaves%20With%20a%20Given%20Value.java) | - | 19-01-2020
 11 | HackerEarth | [Set numbers](https://www.hackerearth.com/challenges/competitive/january-circuits-20/algorithm/set-numbers-bea74f5a/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/SetNumbers_HackerEarth_JanuaryCircuits.java) | - | 20-01-2020
 12 | Leetcode Bi-Weekly 18 | [5155. Rank Transform of an Array](https://leetcode.com/contest/biweekly-contest-18/problems/rank-transform-of-an-array/)<br><br> [5151. Break a Palindrome](https://leetcode.com/contest/biweekly-contest-18/problems/break-a-palindrome/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/5155%20Rank%20Transorm%20an%20Array.java) <br><br> [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/5151%20Break%20a%20Palindrome.java) | - | 25-01-2020
+13 | Leetcode Weekly-172 | [1341. The K Weakest Rows in a Matrix](https://leetcode.com/contest/weekly-contest-174/problems/the-k-weakest-rows-in-a-matrix/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1341%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.java) | - | 02-02-2020
 
 ### Important-(Must Know)
 S.No | Problem | Topic 
