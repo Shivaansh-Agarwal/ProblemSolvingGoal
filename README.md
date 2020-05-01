@@ -9,6 +9,7 @@
 7. [SQL][7]
 8. [Sorting][8]
 9. [100 Days of Code][9]
+10. [May Leetcode Challenge][10]
 
 [0]:#Important-Problems
 [1]:#Logical
@@ -20,6 +21,7 @@
 [7]:#SQL
 [8]:#Sorting
 [9]:#100-Days-of-Code
+[10]:#May-Leetcode-Challenge
 
 ### Contests
 S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
@@ -151,3 +153,8 @@ Day | Problem | Solution | Platform | Date
 35 | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) <br><br> [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/1221%20Split%20a%20String%20in%20Balanced%20Strings.java) <br><br> [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.java) | Leetcode | 14/02/2020
 36 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/contest/weekly-contest-176/problems/count-negative-numbers-in-a-sorted-matrix/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1351%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java) | Leetcode | 16/02/2020
 37 | [Find first non-repeating character in a String](https://practice.geeksforgeeks.org/problems/non-repeating-character/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day037_1.java) | GeeksForGeeks | 17/02/2020
+
+### #May-Leetcode-Challenge
+Day | Problem | Solution | Explanation | Date
+--- | --- | --- | --- | --- 
+1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | - | 01/05/2020
