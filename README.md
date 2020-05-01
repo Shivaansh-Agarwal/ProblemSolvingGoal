@@ -157,4 +157,4 @@ Day | Problem | Solution | Platform | Date
 ### #May-Leetcode-Challenge
 Day | Problem | Solution | Explanation | Date
 --- | --- | --- | --- | --- 
-1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | - | 01/05/2020
+1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | Binary Search Concept | 01/05/2020
