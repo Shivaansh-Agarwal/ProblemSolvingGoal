@@ -154,7 +154,7 @@ Day | Problem | Solution | Platform | Date
 36 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/contest/weekly-contest-176/problems/count-negative-numbers-in-a-sorted-matrix/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1351%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java) | Leetcode | 16/02/2020
 37 | [Find first non-repeating character in a String](https://practice.geeksforgeeks.org/problems/non-repeating-character/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day037_1.java) | GeeksForGeeks | 17/02/2020
 
-### #May-Leetcode-Challenge
+### May-Leetcode-Challenge
 Day | Problem | Solution | Explanation | Date
 --- | --- | --- | --- | --- 
 1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | Binary Search Concept | 01/05/2020
