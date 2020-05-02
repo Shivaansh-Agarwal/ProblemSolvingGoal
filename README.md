@@ -158,3 +158,4 @@ Day | Problem | Solution | Platform | Date
 Day | Problem | Solution | Explanation | Date
 --- | --- | --- | --- | --- 
 1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | Binary Search Concept | 01/05/2020
+2 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/771%20Jewels%20and%20Stones.java) | Strings, Array Concepts | 02/05/2020
