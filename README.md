@@ -155,7 +155,8 @@ Day | Problem | Solution | Platform | Date
 37 | [Find first non-repeating character in a String](https://practice.geeksforgeeks.org/problems/non-repeating-character/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day037_1.java) | GeeksForGeeks | 17/02/2020
 
 ### May-Leetcode-Challenge
-Day | Problem | Solution | Explanation | Date
---- | --- | --- | --- | --- 
-1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | Binary Search Concept | 01/05/2020
-2 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/771%20Jewels%20and%20Stones.java) | Strings, Array Concepts | 02/05/2020
+Day | Problem | My Solution | Difficulty(Relative To Me) | Time Complexity | Space Complexity | Explanation | Date
+--- | --- | --- | --- | --- | --- | --- | --- 
+1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | Medium | - | - | Binary Search Concept | 01/05/2020
+2 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/771%20Jewels%20and%20Stones.java) | Easy | - | - | Strings, Array Concepts | 02/05/2020
+3 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/383%20Ransom%20Note.java) | Easy | O(max(n,m)) | O(1) | Strings, Array Concepts | 03/05/2020
