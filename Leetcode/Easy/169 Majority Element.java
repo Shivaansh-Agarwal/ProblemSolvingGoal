@@ -1,5 +1,5 @@
 /*
-    169. Majority Element
+    169. Majority Element O(n^2)
     https://leetcode.com/problems/majority-element/
     06/05/2020
     May LeetCoding Challenge
