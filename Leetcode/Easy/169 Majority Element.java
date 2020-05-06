@@ -9,12 +9,8 @@
 class Solution {
     public int majorityElement(int[] nums) {
         Map<Integer, Integer> hmap = new HashMap<>();
-        for(int num : nums){
-            if(hmap.containsKey(num)){
-                hmap.put(num, hmap.get(num)+1);
-            } else {
-                hmap.put(num, 1);
-            }
+        for(Integer num : nums){
+            hmap.put(num, hmap.getOrDefault(num,0)+1);
         }
         int threshold = (int)Math.floor(nums.length/2);
         int majorityElement = -1;
