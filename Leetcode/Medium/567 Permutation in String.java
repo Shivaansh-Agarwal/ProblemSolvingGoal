@@ -1,5 +1,9 @@
 /*
-    567. Permutation in String
+    567. Permutation in String (Medium)
+    https://leetcode.com/problems/permutation-in-string/
+    18/05/2020
+    May LeetCoding Challenge
+    Day-18
 */
 
 class Solution {
@@ -24,7 +28,6 @@ class Solution {
                 break;
             }
         }
-        //System.out.println(ans);
         if(ans)
             return ans;
         for(int i=1;i<=s2_len-s1_len;i++){
