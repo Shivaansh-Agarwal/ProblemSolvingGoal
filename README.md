@@ -9,7 +9,9 @@
 7. [SQL][7]
 8. [Sorting][8]
 9. [100 Days of Code][9]
-10. [May Leetcode Challenge][10]
+10. [Monthly Leetcoding Challenge][10]
+    * [May, 2020][may2020]
+    * [June, 2020][june2020]
 
 [0]:#Important-Problems
 [1]:#Logical
@@ -21,7 +23,9 @@
 [7]:#SQL
 [8]:#Sorting
 [9]:#100-Days-of-Code
-[10]:#May-Leetcode-Challenge
+[10]:#Monthly-Leetcode-Challenge
+[may2020]:#May-2020
+[june2020]:#June-2020
 
 ### Contests
 S.No | Website | Problem | Solution(Java) | Solution(Python) | Date
@@ -154,7 +158,9 @@ Day | Problem | Solution | Platform | Date
 36 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/contest/weekly-contest-176/problems/count-negative-numbers-in-a-sorted-matrix/) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Contests/1351%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java) | Leetcode | 16/02/2020
 37 | [Find first non-repeating character in a String](https://practice.geeksforgeeks.org/problems/non-repeating-character/0) | [:key:](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/100DaysOfCode/Day037_1.java) | GeeksForGeeks | 17/02/2020
 
-### May-Leetcode-Challenge
+### Monthly-Leetcode-Challenge
+
+#### May-2020
 Day | Problem | My Solution | Difficulty | Time Complexity | Space Complexity | Concept & Thought Process | Date 
 --- | --- | --- | --- | --- | --- | --- | --- 
 1 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/278%20First%20Bad%20Version.java) | Medium | - | - | Binary Search Concept | 01/05/2020
@@ -174,3 +180,8 @@ Day | Problem | My Solution | Difficulty | Time Complexity | Space Complexity | 
 17 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Medium/438%20Find%20All%20Anagrams%20in%20a%20String.java) | Medium | O(len(s)) | O(1) | String, Array, Sliding Window Technique | 17/05/2020 
 18 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Medium/567%20Permutation%20in%20String.java) | Medium | O(len(s2)) | O(1) | String, Array, Sliding Window Technique | 18/05/2020
 19 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Medium/901%20Online%20Stock%20Span.java) | Medium | O(n) | O(n) | Stack, Array | 19/05/2020
+
+#### June-2020
+Day | Problem | My Solution | Difficulty | Time Complexity | Space Complexity | Concept & Thought Process | Date 
+--- | --- | --- | --- | --- | --- | --- | --- 
+1 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/226%20Invert%20Binary%20Tree.java) | Easy | O(n) | O(1) | Recursion, PostOrder Traversal | 01-06-2020
