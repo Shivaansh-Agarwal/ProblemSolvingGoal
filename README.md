@@ -185,3 +185,4 @@ Day | Problem | My Solution | Difficulty | Time Complexity | Space Complexity | 
 Day | Problem | My Solution | Difficulty | Time Complexity | Space Complexity | Concept & Thought Process | Date 
 --- | --- | --- | --- | --- | --- | --- | --- 
 1 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/226%20Invert%20Binary%20Tree.java) | Easy | O(n) | O(1) | Recursion, PostOrder Traversal | 01-06-2020
+2 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [JAVA](https://github.com/shiv-1998/ProblemSolvingGoal/blob/master/Leetcode/Easy/237%20Delete%20Node%20in%20a%20Linked%20List.java) | Easy | O(n) | O(1) | LinkedList | 02-06-2020
